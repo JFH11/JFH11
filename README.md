@@ -1,5 +1,5 @@
-# 👋 About Me:
-Hi, I am JFH11, anda you can learn more about me below.
+# ✨ About Me:
+Hi 👋, I am JFH11, anda you can learn more about me below.
 
 ## 🚀 Tech Stack:
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
